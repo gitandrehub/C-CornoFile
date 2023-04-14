@@ -1,0 +1,10 @@
+# ninja log v5
+4	177	7007648300063025	CMakeFiles/Scelte_ed_alternative.dir/main.c.obj	352280c1d5ce5cf2
+4	392	7007676617887296	build.ninja	3fc8d7351ee124c9
+169	419	7007675829899631	Scelte_ed_alternative.exe	68b303672c629c80
+4	166	7007664044595580	CMakeFiles/Scelte_ed_alternative.dir/es5.c.obj	ef7a809a4a37a988
+4	167	7007675827503105	CMakeFiles/Scelte_ed_alternative.dir/es7.c.obj	f0b4d24d6890df8f
+1	184	7007686754652847	CMakeFiles/Scelte_ed_alternative.dir/es8.c.obj	c4e361b3002f0ce0
+188	461	7007686757335296	Scelte_ed_alternative.exe	320e8a1f47cdf4b9
+6	275	7007686939474509	CMakeFiles/Scelte_ed_alternative.dir/es8.c.obj	c4e361b3002f0ce0
+279	570	7007686942434522	Scelte_ed_alternative.exe	320e8a1f47cdf4b9

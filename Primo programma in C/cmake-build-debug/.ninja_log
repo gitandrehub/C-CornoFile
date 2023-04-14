@@ -1,0 +1,21 @@
+# ninja log v5
+26	654	7007076695408746	build.ninja	66984b764aa265ac
+6	207	7007072641656548	CMakeFiles/Primo_programma_in_C.dir/es5.c.obj	b8f948b7257f708a
+4	152	7006806086664422	CMakeFiles/Primo_programma_in_C.dir/es1.c.obj	7a6600d812c0cb19
+182	439	7007075036189609	Primo_programma_in_C.exe	6fb230f0798c5a8a
+4	185	7006809806396200	CMakeFiles/Primo_programma_in_C.dir/es3.c.obj	5a4a51bba80d0b2e
+1	178	7007075033662893	CMakeFiles/Primo_programma_in_C.dir/es6.c.obj	370476b84b7d40e0
+3	155	7006807880423069	CMakeFiles/Primo_programma_in_C.dir/es2.c.obj	cab891d6ef343264
+4	236	7007067913540244	CMakeFiles/Primo_programma_in_C.dir/es4.c.obj	3a086fff19ba7f98
+1	157	7007079070730332	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+160	407	7007079073133002	Primo_programma_in_C.exe	d1593017faf339dc
+4	166	7007079291936331	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+169	416	7007079294318844	Primo_programma_in_C.exe	d1593017faf339dc
+4	165	7007079530069549	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+168	420	7007079532503412	Primo_programma_in_C.exe	d1593017faf339dc
+4	164	7007079611407435	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+167	421	7007079613852147	Primo_programma_in_C.exe	d1593017faf339dc
+4	176	7007080326672257	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+178	471	7007080329539614	Primo_programma_in_C.exe	d1593017faf339dc
+4	174	7007080643362612	CMakeFiles/Primo_programma_in_C.dir/es7.c.obj	b1d2ad8ee64dac78
+177	442	7007080645925780	Primo_programma_in_C.exe	d1593017faf339dc

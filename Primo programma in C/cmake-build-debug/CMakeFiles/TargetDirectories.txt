@@ -1,0 +1,3 @@
+C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/Primo programma in C/cmake-build-debug/CMakeFiles/Primo_programma_in_C.dir
+C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/Primo programma in C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/Primo programma in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
