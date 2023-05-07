@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/IO avanzato/cmake-build-debug"
+			"value" : "c:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi file Corno/IO avanzato/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/IO avanzato/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi file Corno/IO avanzato/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/IO avanzato"
+			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi file Corno/IO avanzato"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/IO avanzato/cmake-build-debug"
+			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi file Corno/IO avanzato/cmake-build-debug"
 		},
 		{
 			"name" : "IO_avanzato_IS_TOP_LEVEL",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi di Cabodi/IO avanzato"
+			"value" : "C:/Users/andre/Desktop/Poli/Tecniche di programmazione/C/Esercizi/Esercizi file Corno/IO avanzato"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
