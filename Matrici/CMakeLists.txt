@@ -3,4 +3,4 @@ project(Matrici C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Matrici es11.c)
+add_executable(Matrici es13.c)
